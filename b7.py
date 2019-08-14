@@ -1,5 +1,5 @@
 #print'Hello' N times
 import sys
-b = int(input('enter N : '))
+b = int(input(' '))
 for i in range(b) :
     print('Hello')
